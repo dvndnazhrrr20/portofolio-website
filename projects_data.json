@@ -1,0 +1,11 @@
+{
+    "todo-app": {
+        "detailed_description": "A comprehensive to-do list application built to showcase fundamental concepts of state management and component-based architecture. Users can add, delete, and mark tasks as complete, with all data persisting in local storage."
+    },
+    "website-yasakayara": {
+        "detailed_description": "A professional company profile website for PT. Yasakayara Group Perkasa. This project was developed to enhance the company's online presence, featuring a responsive design, service showcases, and a contact form for inquiries."
+    },
+    "InsightEdu": {
+        "detailed_description": "InsightEdu is an educational platform designed to provide interactive learning materials. This project integrates various technologies to deliver a seamless and engaging user experience for students and educators alike."
+    }
+}
